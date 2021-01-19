@@ -86,3 +86,16 @@ www.google.com
 google.com
 google.de
 www.gooogle.de
+teslarati-com-edge.ntv.io
+settings-win.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+get3.adobe.com
+geo2.adobe.com
+browser.pipe.aria.microsoft.com
+app.link
+ae01.alicdn.com
+*.smartsheet.com
+*.lenta.ru
+*.inc.com
+*.gov
+*.cloud.answerhub.com
