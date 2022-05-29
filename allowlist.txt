@@ -104,3 +104,4 @@ v6.ident.me
 quantcast.mgr.consensu.org
 amazonadsi-a.akamaihd.net
 msh.amazon.co.uk
+www.mapillary.com
